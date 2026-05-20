@@ -1,0 +1,12 @@
+{
+  "name": "vanguard-risk-demo",
+  "version": "1.0.0",
+  "description": "Vanguard Risk Management — Clickable Demo Website",
+  "private": true,
+  "scripts": {
+    "start": "serve . -p $PORT"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
